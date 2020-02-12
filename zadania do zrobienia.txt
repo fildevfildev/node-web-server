@@ -1,0 +1,2 @@
+1. dodac endpoint /dupa
+2. dodac aendpoint /hello/<imie>  Odpowiedź hello <imie>
